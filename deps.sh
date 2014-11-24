@@ -9,7 +9,7 @@ apt-get -q update
 # /usr/games/cowsay "Install dependencies using a script like this!"
 
 modprobe spi-bcm2708
-apt-get install -y python-dev python-gtk2-dev git automake libtool espeak python-django python-simplejson
+apt-get install -y python-dev
 
 #echo "deb http://archive.raspberrypi.org/debian/ wheezy main" >> /etc/apt/sources.list
 #wget http://archive.raspberrypi.org/debian/raspberrypi.gpg.key
