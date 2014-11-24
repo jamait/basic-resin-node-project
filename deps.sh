@@ -9,5 +9,5 @@ apt-get -y upgrade
 # /usr/games/cowsay "Install dependencies using a script like this!"
 
 apt-get -y install lirc
-apt-get -y install raspi-config
+apt-get -y install python3-pifacecad
 
